@@ -10,7 +10,7 @@
 <li>[ ]BridgeMaker 다리 생성 클래스</li>
 <li>[ ]InputView 입력전용클래스</li>
 	<ul>
-	<li>[ ]readBridgeSize 메서드</li>
+	<li>[x]readBridgeSize 메서드</li>
 	<li>[ ]readMoving 메서드</li>
 	<li>[ ]readGameCommand 메서드</li>
 	</ul>
