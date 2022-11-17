@@ -8,7 +8,10 @@
 	<li>[ ]correctLine 메서드</li>
 	</ul>
 <li>[ ]BridgeMaker 다리 생성 클래스</li>
-<li>[ ]InputView 입력전용클래스</li>
+	<ul>
+	<li>[x]makeBridge 메서드</li>
+	</ul>
+<li>[x]InputView 입력전용클래스</li>
 	<ul>
 	<li>[x]readBridgeSize 메서드</li>
 	<li>[x]readMoving 메서드</li>
@@ -21,7 +24,6 @@
 	</ul>
 <li>[ ]BridgeNumberGenerator</li>
 <li>[ ]BridgeRandomNumberGenerator</li>
-<li>[ ]BridgeGenerator</li>
 <li>[ ]예외사항관련 클래스</li>
 <li>[ ]출력문구저장 클래스</li>
 </ul>
