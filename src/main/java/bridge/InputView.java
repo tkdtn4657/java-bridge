@@ -15,7 +15,7 @@ public class InputView {
     	
     	bridgeSize = Integer.parseInt(Console.readLine());
     	
-        return bridgeSize;
+    	return bridgeSize;
     }
 
     /**
@@ -26,13 +26,17 @@ public class InputView {
 
     	moving = Console.readLine();
 
-        return moving;
+    	return moving;
     }
 
     /**
      * 사용자가 게임을 다시 시도할지 종료할지 여부를 입력받는다.
      */
     public String readGameCommand() {
-        return null;
+    	String command;
+    	
+    	command = Console.readLine();
+    	
+    	return command;
     }
 }
