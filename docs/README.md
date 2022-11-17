@@ -21,9 +21,11 @@
 	<ul>
 	<li>[ ]printMap 메서드</li>
 	<li>[ ]printResult 메서드</li>
+	<li>[ ]gameTxt 메서드</li>
 	</ul>
 <li>[ ]BridgeNumberGenerator</li>
 <li>[ ]BridgeRandomNumberGenerator</li>
 <li>[ ]예외사항관련 클래스</li>
-<li>[ ]출력문구저장 클래스</li>
+<li>[ ]PrintMessage출력문구저장 클래스</li>
+<li>[ ]IoData 클래스 입출력 전체관리 클래스(interface)</li>
 </ul>
