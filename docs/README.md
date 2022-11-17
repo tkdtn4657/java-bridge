@@ -11,7 +11,7 @@
 <li>[ ]InputView 입력전용클래스</li>
 	<ul>
 	<li>[x]readBridgeSize 메서드</li>
-	<li>[ ]readMoving 메서드</li>
+	<li>[x]readMoving 메서드</li>
 	<li>[ ]readGameCommand 메서드</li>
 	</ul>
 <li>[ ]OutputView 진행상황 및 결과 출력 클래스</li>
