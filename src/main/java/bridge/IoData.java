@@ -41,9 +41,5 @@ public class IoData {
 		IoData output = new IoData(PrintMessage.PRINT_OUTPUT_TRYCOUNT);
 		System.out.println(output.message);
 	}
-	
-	
-	
-	
-	
+
 }

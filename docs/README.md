@@ -1,6 +1,8 @@
 ##다리 건너기
 
 <ul>
+<li>[ ]Game클래스</li>
+	[x]간단인터페이스구현
 <li>[ ]BridgeGame 게임 관리 클래스</li>
 	<ul>
 	<li>[ ]move 메서드</li>
@@ -21,11 +23,10 @@
 	<ul>
 	<li>[ ]printMap 메서드</li>
 	<li>[ ]printResult 메서드</li>
-	<li>[ ]gameTxt 메서드</li>
 	</ul>
 <li>[ ]BridgeNumberGenerator</li>
 <li>[ ]BridgeRandomNumberGenerator</li>
 <li>[ ]예외사항관련 클래스</li>
-<li>[ ]PrintMessage출력문구저장 클래스</li>
-<li>[ ]IoData 클래스 입출력 전체관리 클래스(interface)</li>
+<li>[x]PrintMessage출력문구저장 클래스</li>
+<li>[x]IoData 메서드</li>
 </ul>
